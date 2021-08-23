@@ -2,3 +2,4 @@ Started over from scratch!
 Here is a second line. 
 This is a test on line 3. Add content to line 3. 
 This is the start of line 4
+Ok now we are adding a 5th line to the document. 
