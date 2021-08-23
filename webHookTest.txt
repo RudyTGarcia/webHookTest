@@ -1,2 +1,2 @@
 We are starting over from scratch!!!
-Added a second line to the txt doc
+Added a second line to the txt doc. Adding more content to the 2nd line
